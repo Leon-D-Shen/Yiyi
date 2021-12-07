@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Leon",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leon-D-Shen/Yiyi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leon-D-Shen/Yiyi/issues"
+  },
+  "homepage": "https://github.com/Leon-D-Shen/Yiyi#readme"
 }

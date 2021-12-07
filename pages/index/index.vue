@@ -16,30 +16,25 @@
 		},
 		data() {
 			return {
+				pageKey:'上课',
 				app_nav: {
 					nav_list:[
 						{
-							title:'选课',
-							url:baseURL+'/public/upload/img/1538128943892.png',
-							active_url:baseURL+'/public/upload/img/1538128956746.png',
-							page_key:'home'
-						},
-						{
 							title:'上课',
-							url:baseURL+'/public/upload/img/1538128943892.png',
-							active_url:baseURL+'/public/upload/img/1538128956746.png',
+							url:baseURL+'/static/icon/shangke.png',
+							active_url:baseURL+'/static/icon/shangke-active.png',
 							page_key:'上课'
 						},
 						{
 							title:'发现',
-							url:baseURL+'/public/upload/img/1538128943892.png',
-							active_url:baseURL+'/public/upload/img/1538128956746.png',
+							url:baseURL+'/static/icon/faxian.png',
+							active_url:baseURL+'/static/icon/faxian-active.png',
 							page_key:'发现'
 						},
 						{
 							title:'我的',
-							url:baseURL+'/public/upload/img/1538128943892.png',
-							active_url:baseURL+'/public/upload/img/1538128956746.png',
+							url:baseURL+'/static/icon/wode.png',
+							active_url:baseURL+'/static/icon/wode-active.png',
 							page_key:'我的'
 						}
 					]
